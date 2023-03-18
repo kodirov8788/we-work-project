@@ -1,7 +1,7 @@
 import React from 'react'
-import img from "./images/1.jpg"
-import img2 from "./images/2.jpg"
-import img3 from "./images/3.jpg"
+import img from "../images/1.jpg"
+import img2 from "../images/2.jpg"
+import img3 from "../images/3.jpg"
 
 function The_end_part() {
     return (
