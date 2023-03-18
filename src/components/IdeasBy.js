@@ -1,5 +1,5 @@
 import React from 'react'
-import Img1 from '../components/images/img1.jpg'
+import Img1 from '../images/img1.jpg'
 import { BsArrowRight } from 'react-icons/bs'
 function IdeasBy() {
     return (
